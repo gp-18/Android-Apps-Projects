@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MEMEZY</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="share">SHARE</string>
+    <string name="next">NEXT</string>
+
+</resources>

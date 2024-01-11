@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project 1  BirthdayWishes</string>
+    <string name="name">Name:</string>
+    <string name="genrerate">Genrerate</string>
+    <string name="genreate">Genreate</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">news</string>
+    <string name="newzify">NEWZIFY</string>
+    <string name="category">Category</string>
+    <string name="todo">TODO</string>
+    <string name="news_heading">News Heading</string>
+    <string name="sub_heading">Sub Heading</string>
+    <string name="textview">TextView</string>
+    <string name="stay_connected_stay_updated">STAY CONNECTED STAY UPDATED</string>
+    <string name="start">START</string>
+    <string name="business">BUSINESS</string>
+    <string name="entertainment">ENTERTAINMENT</string>
+    <string name="health">HEALTH</string>
+    <string name="sports">SPORTS</string>
+    <string name="technology">TECHNOLOGY</string>
+
+</resources>
